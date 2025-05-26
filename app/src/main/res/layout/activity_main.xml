@@ -80,7 +80,7 @@
         android:id="@+id/minTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="0"
+        android:text="0.00"
         android:textSize="18sp"
         android:layout_marginLeft="56dp"
         android:layout_marginTop="258dp"/>
@@ -97,7 +97,7 @@
         android:id="@+id/maxTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="0"
+        android:text="0.00"
         android:textSize="18sp"
         android:layout_marginLeft="187dp"
         android:layout_marginTop="258dp"/>
